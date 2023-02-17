@@ -5,7 +5,7 @@ Here's some introduction:
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with nothing yet, maybe JavaScript
 - 💬 Ask me about a topic
-- 📫 How to reach me: On TextWall.cc, wait around 1 to 10 minutes when you see "Dimka" if you don't see me there, I could be offline on TextWall too
+- 📫 How to reach me: Go to [my site](https://dimka-useless-site.glitch.me) and use Disqus (be a guest or use the account that Disqus created for you)
 - ♂️ Pronouns: he/him
 - ⚡ Fun fact: Life is a simulation
 ### Social Media 📷

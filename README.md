@@ -7,4 +7,4 @@ Here's some introduction:
 - 📫 How to reach me: Discord! @therealdimka
 - ♂️ Pronouns: he/him
 - ⚡ Fun fact: Life is a simulation
-Anything else? Ask ChatGPT.
+- ❓ Anything else? Ask ChatGPT.
